@@ -1,0 +1,9 @@
+<resources>
+    <string name="inicio">WhatsApp</string>
+    <string name="contacto1">Adri</string>
+    <string name="contacto2">Pepe</string>
+    <string name="contacto3">Alberto</string>
+    <string name="contacto4">Pedro</string>
+    <string name="contacto5">Jose</string>
+    <string name="contacto6">Juan</string>
+</resources>
