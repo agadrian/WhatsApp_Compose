@@ -1,9 +1,23 @@
 <resources>
     <string name="inicio">WhatsApp</string>
     <string name="contacto1">Adri</string>
-    <string name="contacto2">Pepe</string>
-    <string name="contacto3">Alberto</string>
-    <string name="contacto4">Pedro</string>
-    <string name="contacto5">Jose</string>
-    <string name="contacto6">Juan</string>
+    <string name="contacto2">Luis</string>
+    <string name="contacto3">Ana</string>
+    <string name="contacto4">Carlos</string>
+    <string name="contacto5">Marta</string>
+    <string name="contacto6">Pedro</string>
+    <string name="contacto7">Laura</string>
+    <string name="contacto8">Raúl</string>
+    <string name="contacto9">Isabel</string>
+    <string name="contacto10">Javier</string>
+    <string name="contacto11">Sandra</string>
+    <string name="contacto12">David</string>
+    <string name="contacto13">Lucía</string>
+    <string name="contacto14">José</string>
+    <string name="contacto15">Paula</string>
+    <string name="contacto16">Juan</string>
+    <string name="contacto17">Elena</string>
+    <string name="contacto18">Carlos</string>
+    <string name="contacto19">Bea</string>
+    <string name="contacto20">Victor</string>
 </resources>
