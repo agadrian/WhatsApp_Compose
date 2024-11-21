@@ -12,4 +12,9 @@
     <color name="archivedNumber">#028d4e</color>
     <color name="grey">#8a8a8a</color>
     <color name="tickRead">#4aa8d1</color>
+    <color name="greenAudio">#22c063</color>
+    <color name="backgroundTextFieldChat">#22272b</color>
+    <color name="chatItemsColor">#798184</color>
+    <color name="messageContact">#22272b</color>
+    <color name="messageUser">#174c38</color>
 </resources>
